@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Pokedex in Pokedex, no dependencies
+Pokedex in Pokedex, no dependencies

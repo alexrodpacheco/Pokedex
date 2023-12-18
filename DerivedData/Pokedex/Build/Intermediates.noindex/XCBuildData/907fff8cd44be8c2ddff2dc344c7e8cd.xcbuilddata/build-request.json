@@ -1,0 +1,62 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "3c6e60540ec9c50fb5d67068a69ccc9ecce98e41fae4f499359d88726cecfcb4"
+    }
+  ],
+  "containerPath" : "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/alexpacheco/Desktop/Pokedex/Pokedex/DerivedData/Pokedex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/alexpacheco/Desktop/Pokedex/Pokedex/DerivedData/Pokedex/Build/Products",
+      "derivedDataPath" : "/Users/alexpacheco/Desktop/Pokedex/Pokedex/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/alexpacheco/Desktop/Pokedex/Pokedex/DerivedData/Pokedex/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/alexpacheco/Desktop/Pokedex/Pokedex/DerivedData/Pokedex/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/alexpacheco/Desktop/Pokedex/Pokedex/DerivedData/Pokedex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "FE459CB4-A41C-4B3D-A966-E9161699D9C8",
+          "TARGET_DEVICE_MODEL" : "iPhone15,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

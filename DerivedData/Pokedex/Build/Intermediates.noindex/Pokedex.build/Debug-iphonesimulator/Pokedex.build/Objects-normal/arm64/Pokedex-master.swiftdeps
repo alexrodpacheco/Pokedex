@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "709258dcc83e37059494039d5138d77bf79439d08af1f60a78fae372d81e2b5d"
+build_start_time: [1702931697, 941208000]
+build_end_time: [1702931703, 375343000]
+inputs:
+  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/AppDelegate.swift": [1702927973, 511499744]
+  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/SceneDelegate.swift": [1702931694, 954716676]
+  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/ViewController.swift": [1702931694, 921076905]
