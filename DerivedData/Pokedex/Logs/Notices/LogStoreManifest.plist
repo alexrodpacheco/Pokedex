@@ -6,6 +6,34 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>046FCA26-08FC-486A-8463-D63AA0E12EF9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>046FCA26-08FC-486A-8463-D63AA0E12EF9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2FsZXhwYWNoZWNvXC9EZXNrdG9wXC9Qb2tlZGV4XC9Qb2tlZGV4XC9Qb2tlZGV4Lnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiQ0U2MDVBOTMyQjMwRDVFNTAwREE1MDA1In0=</string>
+			<key>timeStartedRecording</key>
+			<real>724624494.96871805</real>
+			<key>timeStoppedRecording</key>
+			<real>724624503.37772596</real>
+			<key>title</key>
+			<string>Build Pokedex</string>
+			<key>uniqueIdentifier</key>
+			<string>046FCA26-08FC-486A-8463-D63AA0E12EF9</string>
+		</dict>
 		<key>15FF80F6-94C1-4ED3-905B-88CB8233938A</key>
 		<dict>
 			<key>className</key>
@@ -34,7 +62,7 @@
 			<key>uniqueIdentifier</key>
 			<string>15FF80F6-94C1-4ED3-905B-88CB8233938A</string>
 		</dict>
-		<key>4EE81F51-7D6A-4F20-9CC7-F647F959AFAD</key>
+		<key>30E69F7F-8FE9-45E7-A7A8-C70F59A23D4E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -43,7 +71,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4EE81F51-7D6A-4F20-9CC7-F647F959AFAD.xcactivitylog</string>
+			<string>30E69F7F-8FE9-45E7-A7A8-C70F59A23D4E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -52,17 +80,17 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2FsZXhwYWNoZWNvXC9EZXNrdG9wXC9Qb2tlZGV4XC9Qb2tlZGV4XC9Qb2tlZGV4Lnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiQ0U2MDVBOTMyQjMwRDVFNTAwREE1MDA1In0=</string>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hbGV4cGFjaGVjb1wvRGVza3RvcFwvUG9rZWRleFwvUG9rZWRleFwvUG9rZWRleC54Y29kZXByb2oifQ==</string>
 			<key>timeStartedRecording</key>
 			<real>724624494.96871805</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>724624503.37772596</real>
 			<key>title</key>
 			<string>Build Pokedex</string>
 			<key>uniqueIdentifier</key>
-			<string>4EE81F51-7D6A-4F20-9CC7-F647F959AFAD</string>
+			<string>30E69F7F-8FE9-45E7-A7A8-C70F59A23D4E</string>
 		</dict>
-		<key>BCBAFF65-8A35-4004-981A-111E6CA09623</key>
+		<key>41F9CAEF-9500-457C-9FE7-4E05D9B07C98</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -71,7 +99,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BCBAFF65-8A35-4004-981A-111E6CA09623.xcactivitylog</string>
+			<string>41F9CAEF-9500-457C-9FE7-4E05D9B07C98.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -84,11 +112,11 @@
 			<key>timeStartedRecording</key>
 			<real>724624494.96871805</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>724624503.37772596</real>
 			<key>title</key>
 			<string>Build Pokedex</string>
 			<key>uniqueIdentifier</key>
-			<string>BCBAFF65-8A35-4004-981A-111E6CA09623</string>
+			<string>41F9CAEF-9500-457C-9FE7-4E05D9B07C98</string>
 		</dict>
 	</dict>
 </dict>
