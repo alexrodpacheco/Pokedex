@@ -1,19 +1,12 @@
-//
-//  ViewController.swift
-//  Pokedex
-//
-//  Created by Alex Pacheco on 18/12/23.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let viewModel = SinglePokemonViewModel()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .blue
+        viewModel.showPokemonDataGenertic()
     }
-
-
 }
 

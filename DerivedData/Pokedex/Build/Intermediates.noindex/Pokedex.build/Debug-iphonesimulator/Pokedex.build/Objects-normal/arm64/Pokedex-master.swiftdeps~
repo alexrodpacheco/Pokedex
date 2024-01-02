@@ -1,8 +1,11 @@
 version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
 options: "709258dcc83e37059494039d5138d77bf79439d08af1f60a78fae372d81e2b5d"
-build_start_time: [1702931697, 941208000]
-build_end_time: [1702931697, 998338000]
+build_start_time: [1704198092, 820662000]
+build_end_time: [1704198092, 882763000]
 inputs:
-  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/AppDelegate.swift": !private [1702927973, 511499744]
-  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/SceneDelegate.swift": !private [1702931694, 954716676]
-  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/ViewController.swift": !private [1702931694, 921076905]
+  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/Pokemon/PokemonModel.swift": !private [1704198088, 80453065]
+  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/Resources/AppDelegate.swift": !private [1703593565, 923039994]
+  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/Resources/SceneDelegate.swift": !private [1703593566, 57711659]
+  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/ServiceEndpoints/NetworkManager.swift": !private [1704198088, 66521008]
+  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/ServiceEndpoints/ServiceEndpoints.swift": !private [1703775315, 839118418]
+  "/Users/alexpacheco/Desktop/Pokedex/Pokedex/Pokedex/ViewController.swift": !private [1703787653, 823240610]
